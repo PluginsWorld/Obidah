@@ -1,0 +1,5 @@
+name: Obidah
+version: 1.0
+main: com.github.ukraien1449.obidah.Obidah
+api-version: 1.16
+authors: [ Ukraine1449 ]
