@@ -1,4 +1,0 @@
-name: Obidah-Working
-version: ${project.version}
-main: com.github.ukraine1449.obidahworking.ObidahWorking
-authors: [ Ukraine1449 ]
